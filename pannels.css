@@ -1,0 +1,123 @@
+div
+{
+    text-align: center;
+    font-size: 30px;
+    color: white;
+    padding: 10px;
+    display: grid;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    overflow: auto;
+    width:31%;
+}
+.one
+{    
+    float: left; 
+    background-color:powderblue;
+    font-family: Berlin Sans FB; 
+    color:teal;
+    font-size: 40px
+}
+.two
+{
+    
+    background-color:teal;
+    float: left;
+    color:white;
+    font-size: 20px;
+    text-align:center;
+}
+.seven
+{
+background-color:navy;
+    float: left;
+    color:aqua;
+    font-size: 20px;
+    text-align:center;
+}
+
+.three
+{
+    font-family: Berlin Sans FB; 
+    background-color:powderblue;
+    font-size: 10px;
+    float: left;
+    color:black;
+}
+.four
+{
+font-family: Berlin Sans FB; 
+    background-color: aqua;
+    font-size: 20px;
+    float: left;
+    color:navy;
+}
+.five
+{
+font-family: Berlin Sans FB; 
+    background-color: green;
+    font-size: 10px;
+    float: left;
+    color:black;
+}
+.six
+{
+font-family: Berlin Sans FB; 
+    background-color:aqua;
+    font-size: 20px;
+    float: left;
+    color:navy;
+}
+
+#f
+{
+color:red;
+font-family: Aharoni;
+}
+table>caption {color:blue;text-decoration: underline;}
+table tr {color:teal}
+#l
+{
+font-size: 20px;
+}
+#m
+{
+font-size: 20px;
+color:teal;
+font-family:Aharoni;
+background-color: powderblue;
+}
+#w
+{
+font-size: 20px;
+font-family:Aharoni;
+}
+#I3
+{
+font-size: 20px;
+font-family:Arial Rounded MT Bold;
+}
+#g
+{
+font-size: 30px;
+color:purple;
+}
+#t
+{
+font-size: 10px;
+font-family:Aharoni;
+}
+#k
+{
+font-size: 10px;
+}
+.ninety
+{
+color:red;
+}
+
+
+
+
+
